@@ -23,3 +23,10 @@ This project is an AI-powered application that generates captions for images thr
 ## Screenshots
 
 ![Main Interface](https://raw.githubusercontent.com/Naveen-Baburaj/AI-Powered-Image-Captioning-GUI/main/Screen%20Shots/Screenshot%20(65).png)
+
+
+#### Captioned Images
+![Image Selection](https://raw.githubusercontent.com/Naveen-Baburaj/AI-Powered-Image-Captioning-GUI/main/Screen%20Shots/Screenshot%20(66).png)
+
+
+![Scrollable View](https://raw.githubusercontent.com/Naveen-Baburaj/AI-Powered-Image-Captioning-GUI/main/Screen%20Shots/Screenshot%20(68).png)
