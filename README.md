@@ -20,3 +20,6 @@ This project is an AI-powered application that generates captions for images thr
 2. **View Generated Captions**: Each selected image will appear in the GUI with an AI-generated caption below it.
 3. **Scroll through Images**: If you select multiple images, use the scroll bar to view all images and captions within the application window.
 
+## Screenshots
+
+![Main Interface](https://raw.githubusercontent.com/Naveen-Baburaj/AI-Powered-Image-Captioning-GUI/main/Screen%20Shots/Screenshot%20(65).png)
