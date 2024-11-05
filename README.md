@@ -24,6 +24,12 @@ This project is an AI-powered application that generates captions for images thr
 
 ![Main Interface](https://raw.githubusercontent.com/Naveen-Baburaj/AI-Powered-Image-Captioning-GUI/main/Screen%20Shots/Screenshot%20(65).png)
 
+#### Captioned Images
+![Image Selection](https://raw.githubusercontent.com/Naveen-Baburaj/AI-Powered-Image-Captioning-GUI/main/Screen%20Shots/Screenshot%20(66).png)
+
+
+![Scrollable View](https://raw.githubusercontent.com/Naveen-Baburaj/AI-Powered-Image-Captioning-GUI/main/Screen%20Shots/Screenshot%20(68).png)
+
 ## Benefits
 
 1. Improved Accessibility
@@ -49,8 +55,3 @@ Language Translation: Captions can be translated into multiple languages, making
 Cross-Cultural Reach: Automatic captioning paired with translation helps images convey their message universally.
 
 
-#### Captioned Images
-![Image Selection](https://raw.githubusercontent.com/Naveen-Baburaj/AI-Powered-Image-Captioning-GUI/main/Screen%20Shots/Screenshot%20(66).png)
-
-
-![Scrollable View](https://raw.githubusercontent.com/Naveen-Baburaj/AI-Powered-Image-Captioning-GUI/main/Screen%20Shots/Screenshot%20(68).png)
