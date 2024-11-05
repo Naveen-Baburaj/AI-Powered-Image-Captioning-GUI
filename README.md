@@ -39,17 +39,17 @@ This project is an AI-powered application that generates captions for images thr
 **Contextual Understanding**: Automatically generated captions provide context, helping users better understand and relate to images.  
 **Higher Interaction Rates**: Descriptive captions can increase engagement, as users are more likely to interact with images they understand.
 3. Better SEO Performance  
-**Image Search Optimization**: Search engines use captions and alt text to index images, improving visibility in image searches.
+**Image Search Optimization**: Search engines use captions and alt text to index images, improving visibility in image searches.  
 **Content Discoverability**: With relevant captions, images are more likely to appear in search results, driving traffic to websites and platforms.
 4. Increased Automation  
-**Time Savings**: Automated captioning saves time for content creators by eliminating the need for manual descriptions.
+**Time Savings**: Automated captioning saves time for content creators by eliminating the need for manual descriptions.  
 **Scalability**: For large datasets, especially on social media or e-commerce platforms, captioning tools can efficiently handle thousands of images.
 5. Improved Content Moderation  
-**Content Filtering**: Captioning tools can identify inappropriate or sensitive content, aiding in automatic filtering and moderation.
+**Content Filtering**: Captioning tools can identify inappropriate or sensitive content, aiding in automatic filtering and moderation.  
 **Enhanced User Safety**: By flagging unsuitable images, captioning tools help create safer environments for users.
 6. Better Training Data for Machine Learning  
 **Data Labeling**: Image captioning tools create labeled data that can be used to train other AI models.
-**Improved AI Models**: With high-quality, labeled datasets, developers can train more accurate and reliable computer vision and NLP models.
+**Improved AI Models**: With high-quality, labeled datasets, developers can train more accurate and reliable computer vision and NLP models.  
 7. Increased Accessibility Across Languages  
 **Language Translation**: Captions can be translated into multiple languages, making content more accessible to a global audience.
 **Cross-Cultural Reach**: Automatic captioning paired with translation helps images convey their message universally.
