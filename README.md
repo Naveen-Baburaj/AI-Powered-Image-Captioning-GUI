@@ -32,13 +32,13 @@ This project is an AI-powered application that generates captions for images thr
 
 ## Benefits
 
-1. Improved Accessibility
+1. Improved Accessibility  
 **Enhanced Experience for Visually Impaired Users**: Captions allow screen readers to describe images to users with visual impairments, promoting a more inclusive experience.
 **Broader Reach**: By making visual content accessible, image captioning tools help websites and applications reach a larger, more diverse audience.
-2. Enhanced User Engagement
+2. Enhanced User Engagement  
 **Contextual Understanding**: Automatically generated captions provide context, helping users better understand and relate to images.
 **Higher Interaction Rates**: Descriptive captions can increase engagement, as users are more likely to interact with images they understand.
-3. Better SEO Performance
+3. Better SEO Performance  
 **Image Search Optimization**: Search engines use captions and alt text to index images, improving visibility in image searches.
 **Content Discoverability**: With relevant captions, images are more likely to appear in search results, driving traffic to websites and platforms.
 4. Increased Automation and Efficiency
